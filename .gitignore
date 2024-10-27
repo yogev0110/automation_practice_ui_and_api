@@ -1,0 +1,6 @@
+.env
+venv
+.idea
+drivers/*
+screenshots/*
+*__pycache__*
